@@ -1,0 +1,5 @@
+def funkcja_plus_jeden(liczba):
+	return liczba+1
+
+def funkcja_minus_jeden(liczba):
+	return liczba-1
