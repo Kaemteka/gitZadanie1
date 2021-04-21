@@ -1,8 +1,8 @@
 import plus_jeden_minus_jeden as dodaj_odejmij
 
 def test_plus_jeden():
-	assert dodaj_odejmin.plus_jeden(2) == 3
+	assert dodaj_odejmij.plus_jeden(2) == 3
 
 def test_minus_jeden():
-	assert dodaj_odejmin.minus_jeden(2) == 3
+	assert dodaj_odejmij.minus_jeden(2) == 3
 	
